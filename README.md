@@ -4,6 +4,12 @@
 
 #### Using ChatGPT to turn statements into a narrative summary
 
+Here it takes a few statements and turns it into a narrative summary, yet it is a little too complimentary.
+
+<img src="https://github.com/brownt47/ChatGPT_Prompts/blob/7c1352e9551d5601b50f9f7dd554c82dd9fbf943/images/General_Summary.png" width=100%>
+
+
+
 Notice how it replaces "I" with the faculty members name. Also it includes a Diversity, Equity and Inclusion (DEI) reference when it detects the Black History Month Symposium.
 
 <img src="https://github.com/brownt47/ChatGPT_Prompts/blob/f7f35612b799264c56ce6f290db596e9e828f935/images/DEI_reference.png" width=100%>
