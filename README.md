@@ -1,5 +1,6 @@
 # ChatGPT_Prompts
-## Examples of using ChatGPT and prompts
+
+## Examples of using ChatGPT and prompts for writing evaluations of faculty members
 
 ### Using ChatGPT to expand acronyms for professional organizations:
 
