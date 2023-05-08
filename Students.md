@@ -1,7 +1,11 @@
 ### ChatGPT prompts for responding to student discussion posts
 
-When having to respond to hundreds of student discussion posts every week, it gets difficult to provide unique replies for each student. To just reply "Thanks for posting" does not give an impression that the instructor actually read the post. Using ChatGPT, it can be prompted to provide a reply that responds to topics mentioned by the student. Prompts can also include reminders and encouragements. Some examples:
+When having to respond to hundreds of student discussion posts every week, it gets difficult to provide unique replies for each student. To just reply "Thanks for posting" does not give an impression that the instructor actually read the post. Using ChatGPT, it can be prompted to provide a reply that responds to topics mentioned by the student. Prompts can also include reminders and encouragements. 
 
+Here are two examples from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
+
+## Example 1
+Here was a post were the student seemed a little down on themselves. The response acknowledges this tone and offers some encouragement.
 ```
 Respond to the student’s discussion post.
 Keep it brief: 100 words.
@@ -20,8 +24,6 @@ To be a successful student, I must have a goal, steps, or milestones to achieve 
 Success takes effort and motivation, a drive to keep pushing no matter what, and learning to adapt to new things.
 '''
 ```
-
-Here was a post were the student seemed a little down on themselves. The response acknowledges this tone and offers some encouragement.
 Response:
 ```
 Hi there! I understand that your family sees you as a gritty person because you have goals in life that you are 
@@ -29,10 +31,11 @@ working towards. However, it's okay if you don't see yourself that way. It's imp
 not just about having goals, but also about persevering through challenges and setbacks. Keep working towards your 
 goals and don't be too hard on yourself. You got this!
 ```
+---
 
+## Example 2
 Let's look at another example where some specific hardships are brought up by the student and how ChatGPT can offer some encouragement.
-This was from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
-
+ 
 ```
 Respond to the student’s discussion post.
 Keep it brief: 100 words.
