@@ -21,6 +21,7 @@ and will even work hours at a time. I believe these ten tips are essential to a
 productive semester and will be used to finish strong.'''
 ```
 
+Here is the output. Notice the use of the students name to start the reply and echoing some points the student made.
 Response:
 
 ```
@@ -32,6 +33,34 @@ I also believe the other 9 tips provided are essential for staying productive an
 Good luck with your upcoming final exam!
 
 Best wishes,
+
+Timothy Brown, Instructor
+```
+
+### Another example from the same assignment
+```
+Respond to the student’s discussion post.
+Keep it brief: 100 words
+Echo back some of the topics discussed.
+Provide a statement of encouragement on the upcoming final exam.
+Sign off as Timothy Brown, Instructor
+Post is deliminatted as ''' text '''
+Post:
+'''Thomas Charles posted Apr 12, 2023 4:59 PM
+Indeed, all the tips highlighted are very relatable and useful and would lead to high proficiency in my opinion.
+However, the Pomodoro technique resonated with me more than the other ones. 
+I usually do this when I am performing time-consuming tasks but I used to think it is a bad indulgence. 
+Reading through these tips reassured me that my practice is truly helpful. 
+I will definitely use this method in subsequent studies.'''
+```
+Again, it replies to the student by name, the response is tailored to the students post and does offer encouragement on the upcoming final.
+Response:
+```
+Hi Thomas,
+I'm glad to hear that the Pomodoro technique has been helpful for you! 
+It's great to have a tool like this in your arsenal. All of these tips are useful and should 
+prove helpful as you study for your upcoming final exam. Good luck - I know you'll do well!
+Regards,
 
 Timothy Brown, Instructor
 ```
