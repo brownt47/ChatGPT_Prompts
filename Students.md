@@ -19,6 +19,7 @@ means to fail and learn from mistakes.
 To be a successful student, I must have a goal, steps, or milestones to achieve that goal and never give up. 
 Success takes effort and motivation, a drive to keep pushing no matter what, and learning to adapt to new things.
 '''
+```
 
 Here was a post were the student seemed a little down on themselves. The response acknowledges this tone and offers some encouragement.
 Response:
