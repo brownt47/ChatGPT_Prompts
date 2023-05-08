@@ -1,10 +1,11 @@
-### ChatGPT prompts for responding to student discussion posts
+## ChatGPT prompts for responding to student discussion posts
 
 When having to respond to hundreds of student discussion posts every week, it gets difficult to provide unique replies for each student. To just reply "Thanks for posting" does not give an impression that the instructor actually read the post. Using ChatGPT, it can be prompted to provide a reply that responds to topics mentioned by the student. Prompts can also include reminders and encouragements. 
 
+---
 Here are two examples from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
 
-## Example 1
+#### Example 1
 Here was a post were the student seemed a little down on themselves. The response acknowledges this tone and offers some encouragement.
 ```
 Respond to the student’s discussion post.
@@ -23,9 +24,9 @@ means to fail and learn from mistakes.
 To be a successful student, I must have a goal, steps, or milestones to achieve that goal and never give up. 
 Success takes effort and motivation, a drive to keep pushing no matter what, and learning to adapt to new things.
 '''
-```
+
 Response:
-```
+
 Hi there! I understand that your family sees you as a gritty person because you have goals in life that you are 
 working towards. However, it's okay if you don't see yourself that way. It's important to remember that grit is 
 not just about having goals, but also about persevering through challenges and setbacks. Keep working towards your 
@@ -33,9 +34,9 @@ goals and don't be too hard on yourself. You got this!
 ```
 ---
 
-## Example 2
+#### Example 2
 Let's look at another example where some specific hardships are brought up by the student and how ChatGPT can offer some encouragement.
- 
+It detects the mention of children and echoed that point, while adding in the idea that adults can benefit from this too.
 ```
 Respond to the student’s discussion post.
 Keep it brief: 100 words.
@@ -57,16 +58,20 @@ always a reminder or a push to keep going.As billie Jean  King states- "Champion
 until they get it right."
 '''
 
-It detected the mention of children and echoed that point, while adding in the idea that adults can benefit from this too.
 Response:
-```
+
 I completely agree with your definition of success and your idea that it's important for kids to 
 develop a sense of passion and drive. Grit is a powerful tool that can be developed and honed over time, 
 and it's something that will help kids (and adults) become successful. I think it's important for kids 
 (and adults) to remember that success often comes from persistence and determination.
 ```
 
+## Study Tips
+For this assignment students are provided a list of study tips to look over and reflect on which ones they like the best.
+Here I have personalized the replies by copying the student name from the post, add an encouraging reminder on the upcoming final 
+and to sign off with my name.
 
+#### Example 3
 ```
 Respond to the student’s discussion post.
 Keep it brief: 100 words
@@ -75,7 +80,8 @@ Provide a statement of encouragement on the upcoming final exam.
 Sign off as Timothy Brown, Instructor
 Post is deliminatted as ''' text '''
 Post:
-'''Lily Tomlin posted:
+'''
+Lily Tomlin posted:
 Out of the 10 tips from Andrea Hendricks, I resonated the most with tip number 6. This tip is to focus on getting started. 
 I typically get easily overwhelmed at the beginning of every week, leading me to procrastinate (number 10). 
 However, if I focus solely on getting started, I always complete more assignments in one sitting. 
@@ -84,12 +90,9 @@ technique that is designed to increase productivity. Essentially, you only commi
 are free to stop after those five minutes. Through this, I have learned that I go far beyond the five minutes 
 and will even work hours at a time. I believe these ten tips are essential to a 
 productive semester and will be used to finish strong.'''
-```
 
-Here is the output. Notice the use of the students name to start the reply and echoing some points the student made.
 Response:
 
-```
 Hi Lily,
 
 I'm glad to hear that you have found a technique that works for you in getting started on assignments. 
@@ -102,7 +105,7 @@ Best wishes,
 Timothy Brown, Instructor
 ```
 
-### Another example from the same assignment
+#### Example 4
 ```
 Respond to the student’s discussion post.
 Keep it brief: 100 words
@@ -111,16 +114,17 @@ Provide a statement of encouragement on the upcoming final exam.
 Sign off as Timothy Brown, Instructor
 Post is deliminatted as ''' text '''
 Post:
-'''Thomas Charles posted Apr 12, 2023 4:59 PM
+'''
+Thomas Charles posted Apr 12, 2023 4:59 PM
 Indeed, all the tips highlighted are very relatable and useful and would lead to high proficiency in my opinion.
 However, the Pomodoro technique resonated with me more than the other ones. 
 I usually do this when I am performing time-consuming tasks but I used to think it is a bad indulgence. 
 Reading through these tips reassured me that my practice is truly helpful. 
-I will definitely use this method in subsequent studies.'''
-```
-Again, it replies to the student by name, the response is tailored to the students post and does offer encouragement on the upcoming final.
+I will definitely use this method in subsequent studies.
+'''
+
 Response:
-```
+
 Hi Thomas,
 I'm glad to hear that the Pomodoro technique has been helpful for you! 
 It's great to have a tool like this in your arsenal. All of these tips are useful and should 
