@@ -3,6 +3,7 @@
 When having to respond to hundreds of student discussion posts every week, it gets difficult to provide unique replies for each student. To just reply "Thanks for posting" does not give an impression that the instructor actually read the post. Using ChatGPT, it can be prompted to provide a reply that responds to topics mentioned by the student. Prompts can also include reminders and encouragements. 
 
 ---
+## Grit Assignment
 Here are two examples from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
 
 #### Example 1
@@ -65,11 +66,11 @@ develop a sense of passion and drive. Grit is a powerful tool that can be develo
 and it's something that will help kids (and adults) become successful. I think it's important for kids 
 (and adults) to remember that success often comes from persistence and determination.
 ```
-
-## Study Tips
+---
+## Study Tips Assignment
 For this assignment students are provided a list of study tips to look over and reflect on which ones they like the best.
 Here I have personalized the replies by copying the student name from the post, add an encouraging reminder on the upcoming final 
-and to sign off with my name.
+and to sign off with my name. Notice it opens the reply by using the students name.
 
 #### Example 3
 ```
@@ -78,7 +79,7 @@ Keep it brief: 100 words
 Echo back some of the topics discussed.
 Provide a statement of encouragement on the upcoming final exam.
 Sign off as Timothy Brown, Instructor
-Post is deliminatted as ''' text '''
+Post is delimited as ''' text '''
 Post:
 '''
 Lily Tomlin posted:
@@ -112,7 +113,7 @@ Keep it brief: 100 words
 Echo back some of the topics discussed.
 Provide a statement of encouragement on the upcoming final exam.
 Sign off as Timothy Brown, Instructor
-Post is deliminatted as ''' text '''
+Post is delimited as ''' text '''
 Post:
 '''
 Thomas Charles posted Apr 12, 2023 4:59 PM
@@ -133,3 +134,5 @@ Regards,
 
 Timothy Brown, Instructor
 ```
+
+## These are but a few examples of using ChatGPT to help assure students replies are being reviewed and help instructors from sounding repetitive.
