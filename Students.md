@@ -4,6 +4,67 @@ When having to respond to hundreds of student discussion posts every week, it ge
 
 ```
 Respond to the student’s discussion post.
+Keep it brief: 100 words.
+Echo back some of the topics discussed.
+Be encouraging.
+post is delimited by ''' text '''
+post:
+'''
+Today I know my family would tell me I'm grit, but I don't believe I am. My family sees that I have goals in life that 
+Im working toward which is true, but I know that Im not working toward my goal efficiently, and I don't have 
+the motivation and tend not to put in that much effort. At the moment, mentally and physically, I'm not where 
+I should be, and I know that affects my motivation to strive for more. Thankfully I do understands what it 
+means to fail and learn from mistakes.
+
+To be a successful student, I must have a goal, steps, or milestones to achieve that goal and never give up. 
+Success takes effort and motivation, a drive to keep pushing no matter what, and learning to adapt to new things.
+'''
+
+Here was a post were the student seemed a little down on themselves. The response acknowledges this tone and offers some encouragement.
+Response:
+```
+Hi there! I understand that your family sees you as a gritty person because you have goals in life that you are 
+working towards. However, it's okay if you don't see yourself that way. It's important to remember that grit is 
+not just about having goals, but also about persevering through challenges and setbacks. Keep working towards your 
+goals and don't be too hard on yourself. You got this!
+```
+
+Let's look at another example where some specific hardships are brought up by the student and how ChatGPT can offer some encouragement.
+This was from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
+
+```
+Respond to the student’s discussion post.
+Keep it brief: 100 words.
+Echo back some of the topics discussed.
+Be encouraging.
+post is delimited by ''' text '''
+post:
+'''
+Grit to me seems like a form of motivation that one self has to have or obtain.
+Grit isnt something that is taught but developed through behavior good and bad. 
+It isnt based off whos the smartest, most talented, or looks. Grit works off of passion and the 
+will to not give up. My definition of what it takes for students to be successful is exactly that, 
+not giving up . Not giving up is the number one drive and key to success. Learning to be ok with 
+failure because not everyone strikes out on the first try. Success also is not giving up when things 
+are going good. Soon as we do good we can get too relaxed. I agree with Angela Lee Duckwork on getting
+kids more gritter.I also think it should and can apply to adults. With having children myself,I think
+it is important for kids to develop a sense of passion or drive. When you do find that drive its
+always a reminder or a push to keep going.As billie Jean  King states- "Champions keep playing 
+until they get it right."
+'''
+
+It detected the mention of children and echoed that point, while adding in the idea that adults can benefit from this too.
+Response:
+```
+I completely agree with your definition of success and your idea that it's important for kids to 
+develop a sense of passion and drive. Grit is a powerful tool that can be developed and honed over time, 
+and it's something that will help kids (and adults) become successful. I think it's important for kids 
+(and adults) to remember that success often comes from persistence and determination.
+```
+
+
+```
+Respond to the student’s discussion post.
 Keep it brief: 100 words
 Echo back some of the topics discussed.
 Provide a statement of encouragement on the upcoming final exam.
