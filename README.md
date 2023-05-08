@@ -51,9 +51,17 @@ Keep it brief: 100 words
 Echo back some of the topics discussed.
 Provide a statement of encouragement on the upcoming final exam.
 Sign off as Timothy Brown, Instructor
+Post is delimited with '''
 Post:
-Lily Tomlin posted:
-Out of the 10 tips from Andrea Hendricks, I resonated the most with tip number 6. This tip is to focus on getting started. I typically get easily overwhelmed at the beginning of every week, leading me to procrastinate (number 10). However, if I focus solely on getting started, I always complete more assignments in one sitting. This is much like the five-minute rule I started practicing a few semesters ago. This is a cognitive-behavioral technique that is designed to increase productivity. Essentially, you only commit five minutes to the task and are free to stop after those five minutes. Through this, I have learned that I go far beyond the five minutes and will even work hours at a time. I believe these ten tips are essential to a productive semester and will be used to finish strong.
+'''Lily Tomlin posted:
+Out of the 10 tips from Andrea Hendricks, I resonated the most with tip number 6. This tip is to focus on getting started. 
+I typically get easily overwhelmed at the beginning of every week, leading me to procrastinate (number 10). 
+However, if I focus solely on getting started, I always complete more assignments in one sitting. 
+This is much like the five-minute rule I started practicing a few semesters ago. This is a cognitive-behavioral 
+technique that is designed to increase productivity. Essentially, you only commit five minutes to the task and 
+are free to stop after those five minutes. Through this, I have learned that I go far beyond the five minutes 
+and will even work hours at a time. I believe these ten tips are essential to a 
+'''productive semester and will be used to finish strong.
 ```
 
 Response:
