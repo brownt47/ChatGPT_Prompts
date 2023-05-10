@@ -22,7 +22,8 @@ def get_response(prompt, model="gpt-3.5-turbo"):
     )
     return response.choices[0].message["content"]
 
-prompt = "Prompt instructions and text here"
+text = "copy-and-paste students discussion post here"  
+prompt = f"""Prompt instructions for '''{text}''' """  # instructions for how to reply to students discussion post.
 response = get_response(prompt)
 print(response)
 ```
