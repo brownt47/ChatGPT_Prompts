@@ -17,13 +17,13 @@ def get_response(prompt, model="gpt-3.5-turbo"):
         model=model,
         messages=messages,
         temperature=0.7, # Controls the randomness of the model
-        presence_penalty = 0.5 # Increases chance the model will talk about new topics
+        presence_penalty = 0.5, # Increases chance the model will talk about new topics
         frequency_penalty = 1.0 # decreases chance model will be repetitve
     )
     return response.choices[0].message["content"]
 
 text = "copy-and-paste students discussion post here"  
-prompt = f"""Prompt instructions for '''{text}''' """  # instructions for how to reply to students discussion post.
+prompt = f""" Prompt instructions for '''{text}''' """  # instructions for how to reply to students discussion post.
 response = get_response(prompt)
 print(response)
 ```
