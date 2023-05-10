@@ -11,10 +11,9 @@ openai.api_key  = [REDACTED]
 
 # Helper Function
 def get_response(prompt):  
-    messages = [{"role": "user", "content": prompt}]
     response = openai.ChatCompletion.create(
         model = "gpt-3.5-turbo",
-        messages = messages,
+        messages = [{"role": "user", "content": prompt}],
         temperature = 0.7, # Controls the randomness of the model
         presence_penalty = 0.5, # Increases chance the model will talk about new topics
         frequency_penalty = 1.0 # decreases chance model will be repetitve
