@@ -6,7 +6,6 @@ Here was the setup code for the API calls
 
 ```python 
 import openai
-import os
 
 openai.api_key  = [REDACTED]
 
