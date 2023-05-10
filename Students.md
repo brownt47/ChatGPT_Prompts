@@ -158,4 +158,6 @@ Regards,
 Timothy Brown, Instructor
 ```
 
+Some examples where ChatGPT helps write faculty evaluations can be found [here.](https://github.com/brownt47/ChatGPT_Prompts/blob/main/Evals.md)
+
 #### These are but a few examples of using ChatGPT to help improve the online learning experience. Students can be assured their discussion posts are actually being read and it helps me from sounding too repetitive.
