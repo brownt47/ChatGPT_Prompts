@@ -92,8 +92,8 @@ and it's something that will help kids (and adults) become successful. I think i
 ---
 ## Study Tips Assignment
 For this assignment students are provided a list of study tips to look over and reflect on which ones they like the best.
-Here I have personalized the replies by copying the student name from the post, add an encouraging reminder on the upcoming final 
-and to sign off with my name. Notice it opens the reply by using the students name.
+Here I have personalized the replies by copying the student name from the discussion post, instructed to add an encouraging reminder on the upcoming final, 
+and to sign off with my name. Notice it opens the reply by using the students name without being instructed to do so.
 
 #### Example 3
 ```
@@ -105,7 +105,7 @@ Sign off as Timothy Brown, Instructor
 Post is delimited as ''' text '''
 Post:
 '''
-Lily Tomlin posted:
+Lily Tomlin posted Mar 15, 2023 3:14 PM:
 Out of the 10 tips from Andrea Hendricks, I resonated the most with tip number 6. This tip is to focus on getting started. 
 I typically get easily overwhelmed at the beginning of every week, leading me to procrastinate (number 10). 
 However, if I focus solely on getting started, I always complete more assignments in one sitting. 
