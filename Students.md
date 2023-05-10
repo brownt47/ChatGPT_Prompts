@@ -21,7 +21,7 @@ def get_response(prompt):
     return response.choices[0].message["content"]
 
 text = "copy-and-paste students discussion post here"  
-prompt = f""" Prompt instructions for '''{text}''' """  # instructions for how to reply to students discussion post.
+prompt = f""" Prompt instructions for '''{text}''' """  # instructions for how to reply to a student's discussion post.
 response = get_response(prompt)
 print(response)
 ```
