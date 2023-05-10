@@ -93,7 +93,7 @@ and it's something that will help kids (and adults) become successful. I think i
 ## Study Tips Assignment
 For this assignment students are provided a list of study tips to look over and reflect on which ones they like the best.
 Here I have personalized the replies by copying the student name from the discussion post, instructed to add an encouraging reminder on the upcoming final, 
-and to sign off with my name. Notice it opens the reply by using the students name without being instructed to do so.
+and to sign off with my name. Notice it opens the reply by using the student's name without being instructed to do so.
 
 #### Example 3
 ```
