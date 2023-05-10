@@ -160,4 +160,4 @@ Regards,
 Timothy Brown, Instructor
 ```
 
-## These are but a few examples of using ChatGPT to help assure students replies are being reviewed and help instructors from sounding repetitive.
+#### These are but a few examples of using ChatGPT to help improve the online learning experience. Students can be assured their discussion posts are actually being read and it helps me from sounding too repetitive.
