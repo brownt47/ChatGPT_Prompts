@@ -2,6 +2,30 @@
 
 When having to respond to hundreds of student discussion posts every week, it gets difficult to provide unique replies for each student. To just reply "Thanks for posting" does not give an impression that the instructor actually read the post. Using ChatGPT, it can be prompted to provide a reply that responds to topics mentioned by the student. Prompts can also include reminders and encouragements. 
 
+Here was the setup code for the API calls
+
+```python 
+import openai
+import os
+
+openai.api_key  = [REDACTED]
+
+# Helper Function
+def get_response(prompt, model="gpt-3.5-turbo"):  
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=0.7, # Controls the randomness of the model
+        presence_penalty = 0.5 # Increases chance the model will talk about new topics
+        frequency_penalty = 1.0 # decreases chance model will be repetitve
+    )
+    return response.choices[0].message["content"]
+
+prompt = "Prompt instructions and text here"
+response = get_response(prompt)
+print(response)
+```
 ---
 ## Grit Assignment
 Here are two examples from an assignment where students are asked to watch the Ted Talk given by Dr. Angela Lee Duckworth on "Grit".
